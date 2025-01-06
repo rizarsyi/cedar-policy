@@ -1,8 +1,8 @@
 {
-    "cedar_version": "3.4.1",
+    "cedar_version": "4.2.2",
     "policy_stores": {
         "46a607797b3cba667a6cafbffc00c1210e9f48134485": {
-            "name": "myStore",
+            "name": "myStoree",
             "description": "Lorem ipsum dolor sit amet",
             "policies": {},
             "trusted_issuers": {},
